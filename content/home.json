@@ -1,6 +1,6 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "Capas de Motores para Barcos: Proteja e Preserve com Estilo!",
+  "meta_description": "Explore a melhor seleção de capas de motores para barcos na nossa loja online! Proteja o coração do seu barco com as capas de alta qualidade projetadas para resistir aos elementos. Nossas capas duráveis são feitas para se ajustarem perfeitamente a uma variedade de motores, garantindo uma proteção completa contra sol, chuva, poeira e danos. Escolha entre uma variedade de tamanhos e estilos para encontrar a capa ideal que não só protege, mas também complementa o visual do seu barco. Com materiais resistentes e costuras reforçadas, nossas capas asseguram a longevidade do seu motor, economizando dinheiro em manutenções futuras. Navegue pela nossa coleção hoje mesmo e adquira a capa de motor perfeita para o seu barco!",
   "sections": [
     {
       "type": "banner-slider",
@@ -8,19 +8,16 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/headphone.webp"
+          "start": "2023-08-10T03:00:00.000Z",
+          "end": "",
+          "img": "/img/uploads/infinity-capas-1920x600.jpg",
+          "mobile_img": "/img/uploads/infinity-capas-800x940.jpg"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/passion.webp"
+          "img": "/img/uploads/2-infinity-capas-1920x600-1.jpg",
+          "mobile_img": "/img/uploads/2-infinity-capas-800x940-1-.jpg"
         }
       ]
     },
@@ -32,16 +29,16 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null,
-      "sort": "offers",
-      "title": "",
+      "sort": "news",
+      "title": "OS MAIS VENDDIDOS",
       "headless": false,
       "limit": 12,
       "page": 1
     },
     {
       "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "title": "Capas de Motores para Barcos: Proteja e Preserve com Estilo!",
+      "description": "Explore a melhor seleção de capas de motores para barcos na nossa loja online! Proteja o coração do seu barco com as capas de alta qualidade projetadas para resistir aos elementos. Nossas capas duráveis são feitas para se ajustarem perfeitamente a uma variedade de motores, garantindo uma proteção completa contra sol, chuva, poeira e danos. Escolha entre uma variedade de tamanhos e estilos para encontrar a capa ideal que não só protege, mas também complementa o visual do seu barco. Com materiais resistentes e costuras reforçadas, nossas capas asseguram a longevidade do seu motor, economizando dinheiro em manutenções futuras. Navegue pela nossa coleção hoje mesmo e adquira a capa de motor perfeita para o seu barco!"
     }
   ]
 }

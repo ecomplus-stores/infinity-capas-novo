@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
+    "text": "Não sabe qual capa comprar? Fale conosco pelo WHATSAPP",
     "link": "/promotion"
   },
   "contacts_stripe": {
@@ -10,16 +10,20 @@
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "Nossa loja no Mercado Livre",
+        "link": "https://lista.mercadolivre.com.br/_CustId_181006955"
       }
     ],
     "phone_wpp": true,
-    "socials": true
+    "socials": false
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
+    "featured": [
+      "/capas-para-motores?Capas para Motores",
+      "/mochilas-em-lona?Mochilas em Lona",
+      "/sacolas-para-tralhas-de-pesca?Sacolas para Tralhas de Pesca"
+    ],
+    "random": 0,
     "full_width": false
   },
   "centralized_logo": false,

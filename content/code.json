@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".top-bar a.top-bar__countdown{\n  background: #0e397b;\n}\n.info-bar {\n    background: #0096db;\n}\n.header {\n    background: white;\n}\n.header__category:hover {\n    background: #004fa1;\n    text-decoration: none;\n    padding: 10px;\n    color: white;\n}\n.header__nav a {\n    border-radius: var(--border-radius-sm);\n    display: inline-block;\n    font-weight: var(--font-headings);\n    padding: 0 var(--spacer-1);\n    transition: background-color .15s;\n    color: #024b9f;\n}\n#product-actions > div > div.product__buy > div > span > button{\n      width: 100%;\n    background: green;\n    border: none;\n    border-radius: 0px;\n    text-transform: uppercase;\n}",
   "html_head": "",
   "html_body": ""
 }
