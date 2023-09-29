@@ -1,5 +1,5 @@
 {
-  "domain": "infinitycapas.netlify.app",
+  "domain": "infinity-capas-novo.netlify.app",
   "currency_symbol": "R$",
   "primary_color": "#222831",
   "theme": {
@@ -7,7 +7,7 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "repository": "ecomplus-stores/infinitycapas",
+  "repository": "ecomplus-stores/infinity-capas-novo",
   "logo": "/img/uploads/logo-infinity.jpg",
   "name": "infinitycapas",
   "short_name": "Infinity Capas e Produtos Náuticos",
