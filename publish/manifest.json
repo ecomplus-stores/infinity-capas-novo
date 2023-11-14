@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.5f0b53bfdddb35b86a360dccd578e7a6.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.31a5e3bea6ceb6ef85bdc4a95c724dff.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.1b7a1447c2d47024e5718571dd5985bc.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.efd992c1fc5d2eab672a554941d34476.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.c321bef7b3ddb2426bed12a4a4d91d7b.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "infinitycapas",
+  "short_name": "Infinity Capas e Produtos Náuticos",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Somos a maior loja de Capas para motor de Popa e Sacolas para Tralhas de Pesca.",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
